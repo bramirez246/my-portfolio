@@ -1,0 +1,6 @@
+{
+    "useTabs": true,
+    "bracketSameLine": true,
+    "singleAttributePerLine": false,
+    "printWidth": 175
+}

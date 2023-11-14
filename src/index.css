@@ -189,3 +189,20 @@ div#about-me-section > hr {
 .bg-waves3 {
   background-image: url("./assets/transparent-waves3.svg");
 }
+
+
+
+/* @media(prefers-reduced-motion) {
+  .hidden{
+    opacity: 0;
+    filter:blur(5px);
+    transform: translateX(-100%);
+    transition: all 1s;
+   }
+   
+   .show {
+     opacity: 1;
+     filter:blur(0);
+     transform: translateX(0);
+   }
+} */
