@@ -13,7 +13,6 @@ const Reveal = ({children}) => {
         if(isInView){
             mainControls.start("visible");
         }
-        console.log(isInView);
     }, [isInView, mainControls]);
 
     return (
