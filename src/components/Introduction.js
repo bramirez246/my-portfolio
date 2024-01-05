@@ -1,11 +1,8 @@
 import React from "react";
 // import Image from "react-bootstrap/Image";
-import pfp from "../assets/my-pfp3.png";
+import pfp from "../assets/my-pfp3-optimized.jpg";
 import { Container } from "react-bootstrap";
 import Reveal from "./Reveal,";
-
-
-// const [setRef] = RevealOnScroll({threshold: 0.5});
 
 class Introduction extends React.Component {
 	render() {
