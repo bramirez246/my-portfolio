@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
-import ErrorPage from './pages/NotFound';
+import NotFound from './pages/NotFound';
 import {
   createBrowserRouter,
   RouterProvider,
@@ -12,7 +12,7 @@ import {
 const router = createBrowserRouter([
   {
     path: "/", element: <App/>,
-    errorElement: <ErrorPage />
+    errorElement: <NotFound status={404}/>
   },
 ]);
 

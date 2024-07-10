@@ -7,7 +7,7 @@ class Resume extends React.Component {
 		return (
 			<div id="resume-btn" className="text-center">
 				<Reveal>
-					<Button variant="outline-primary" href="https://drive.google.com/uc?export=download&id=186tQJoY4rrC73Wv-IT7q0ZwgGwUlhiUK">
+					<Button variant="outline-primary" href="https://drive.google.com/uc?export=download&id=17ZqwAAgwxa9HxAqKN2zdAwlKIEwMvLWh">
 						Download Resume
 					</Button>
 				</Reveal>
